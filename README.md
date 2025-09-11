@@ -3,10 +3,7 @@ Soy estudiante de programación en el instituto Huaycan.
 
 ---
 
-## 🚀 Tecnologías que uso
-- **Lenguajes:** C#, Python, SQL  
-- **Herramientas:** Git, Visual Studio, MySQL  
-- **Otros:** Trabajo en equipo, resolución de problemas  
+#
 
 ---
 
