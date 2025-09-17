@@ -18,3 +18,9 @@ Soy estudiante de programación en el instituto Huaycan.
 - Email: **alonsovm72003@gmail.com**  
 - GitHub: (Este mismo.)
 
+
+      /\_/\  
+     / o o \ 
+    (   "   ) 
+     \~(*)~/  
+      `---'
