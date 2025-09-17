@@ -21,4 +21,4 @@ Soy estudiante de programación en el instituto Huaycan.
 
  /\_/\  
 ( o.o ) 
- > ^ <  
+.> ^ <. 
