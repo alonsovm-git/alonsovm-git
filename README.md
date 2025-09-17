@@ -19,8 +19,3 @@ Soy estudiante de programación en el instituto Huaycan.
 - GitHub: (Este mismo.)
 
 
- /\_/\  
- 
-( o.o ) 
-
-.> ^ <. 
