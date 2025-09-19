@@ -20,6 +20,7 @@ Soy estudiante de programación en el instituto Huaycan.
 ## 📫 Contáctame
 - Email: **alonsovm72003@gmail.com**  
 - GitHub: (Este mismo.)
-- [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alonso.vivasmalpica)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alonso.vivasmalpica)  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@soi_alons0)  
+
 
 
