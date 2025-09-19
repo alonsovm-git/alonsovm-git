@@ -1,4 +1,4 @@
-# # <img src="https://em-content.zobj.net/thumbs/160/twitter/348/waving-hand_1f44b.png" width="30px" alt="wave"> Hola, soy Alonso
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hola, soy Alonso
 
 Soy estudiante de programación en el instituto Huaycan.
 <p align="center">
