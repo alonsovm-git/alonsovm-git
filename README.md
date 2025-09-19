@@ -1,5 +1,8 @@
 # 👋 Hola, soy Alonso
 Soy estudiante de programación en el instituto Huaycan.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatito feliz" width="250"/>
+</p>
 
 ---
 
