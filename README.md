@@ -21,7 +21,10 @@ Soy estudiante de programación en el instituto Huaycan.
 - ✉️ Email: **alonsovm72003@gmail.com**  
 - 🌐 También puedes encontrarme en mis otras redes sociales:  
   
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alonso.vivasmalpica)  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@soi_alons0)  [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199729738260/)  [![Roblox](https://img.shields.io/badge/Roblox-D71F26?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/es/users/1857079603/profile)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alonso.vivasmalpica)  [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@soi_alons0)  [![Steam](https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199729738260/)  [![Roblox](https://img.shields.io/badge/Roblox-D71F26?style=for-the-badge&logo=roblox&logoColor=white)](https://www.roblox.com/es/users/1857079603/profile)   
+
+![Spotify](https://novatorem.vercel.app/api/spotify)
+
 
 
 
