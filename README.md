@@ -26,7 +26,10 @@ Soy estudiante de programación en el instituto Huaycan.
 
 ![Visitas](https://komarev.com/ghpvc/?username=alonsovm-git&color=blue)
 
-
+<details>
+  <summary>Haz click aquí 👀</summary>
+  <p>Gracias por visitar mi perfil 🙌</p>
+</details>
 
 
 
