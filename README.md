@@ -9,8 +9,6 @@
 
 -  Soy Alonso, tengo 21 años y soy de Lima, Perú.
 
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Perrito saludando" width="250" align="right">
-
 ### - Experiencia :
 - Soy estudiante de programación en el instituto Huaycan.
 - Tengo experiencia trabajando en empresas de periodismo.
