@@ -12,7 +12,6 @@
 ### - Experiencia :
 - Soy estudiante de programación en el instituto Huaycan.
 - Tengo experiencia trabajando en empresas de periodismo.
-- Aprendo rapido si me enseñan.
 
 ### - Hobbies : 
 -  Me gusta dibujar en mi tiempo libre.
